@@ -5,5 +5,5 @@ Items
 - Salida 2
 
 Footer
-Gracias por usar este repo!
+Gracias por usar este repositorio!
 
